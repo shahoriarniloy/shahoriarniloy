@@ -11,10 +11,14 @@ Dedicated, self-motivated individual with unwavering determination and a resilie
 
 
 ##  📬: Reach Me
+<P align="center">
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/shahoriarniloy/)
 &nbsp;&nbsp;
 [![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/shahoriarniloy)
+  
+</P>
+
 
 ## :chart_with_upwards_trend: Current Stats
 
