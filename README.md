@@ -54,6 +54,8 @@ Dedicated, self-motivated individual with unwavering determination and a resilie
   <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/MySQL.png" alt="MySQL" title="MySQL" width="50" height="50" style="margin-right: 20px; border-radius: 5px;" />
   <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/node.png" alt="Node" title="Node width="50" height="50" style="margin-right: 20px; border-radius: 5px;" />
   <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/express.png" alt="Express" title="Express" width="50" height="50" style="margin-right: 20px; border-radius: 5px;" />
+  <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/dart.png" alt="Dart" title="Dart" width="50" height="50" style="margin-right: 20px; border-radius: 5px;" />
+  <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/solidity.png" alt="Solidity" title="Solidity" width="50" height="50" style="margin-right: 20px; border-radius: 5px;" />
 
 </p>
 
