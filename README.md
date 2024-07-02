@@ -25,6 +25,7 @@ Dedicated, self-motivated individual with unwavering determination and a resilie
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahoriarniloy&theme=dracula&card_width=1000)]
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanobar-rahaman&hide_progress=true)
 
 ## Skills/Technologies I Know
 <p align="center">
