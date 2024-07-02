@@ -45,7 +45,7 @@ Dedicated, self-motivated individual with unwavering determination and a resilie
 
 <p align="center">
     <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/JavaScript.png" alt="JavaScript" title="JavaScript" width="50" height="50" style="margin-right: 20px; border-radius: 5px;" />
-    <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/react" alt="React" title="React" width="50" height="50" style="margin-right: 20px; border-radius: 5px;" />
+    <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/react.png" alt="React" title="React" width="50" height="50" style="margin-right: 20px; border-radius: 5px;" />
    <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/Laravel.png" alt="Laravel" title="Laravel" width="50" height="50" style="margin-right: 20px; border-radius: 20px;" />
   <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/firebase.png" alt="Firebase" title="Firebase" width="50" height="50" style="margin-right: 20px; border-radius: 5px;" />
   <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/mongo.png" alt="MongoDB" title="MongoDB" width="50" height="50" style="margin-right: 20px; border-radius: 5px;" />
