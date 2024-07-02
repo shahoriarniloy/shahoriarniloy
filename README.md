@@ -28,7 +28,7 @@ Dedicated, self-motivated individual with unwavering determination and a resilie
 
 ## Skills/Technologies I Know
 <p align="center">
-   <img src="https://img.icons8.com/color/50/000000/html-5.png" alt="HTML5" title="HTML5" width="50" height="50" style="margin-right: 20px;" />
+  <img src="https://img.icons8.com/color/50/000000/html-5.png" alt="HTML5" title="HTML5" width="50" height="50" style="margin-right: 20px;" />
   <img src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS3" title="CSS3" width="50" height="50" style="margin-right: 20px;" />
   <img src="https://img.icons8.com/ios/50/000000/react-native.png" alt="React" title="React" width="50" height="50" style="margin-right: 20px;" />
   <img src="https://img.icons8.com/color/50/000000/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS" width="50" height="50" style="margin-right: 20px;" />
@@ -44,6 +44,4 @@ Dedicated, self-motivated individual with unwavering determination and a resilie
   <img src="https://img.icons8.com/ios-filled/50/000000/laravel.png" alt="Laravel" title="Laravel" width="50" height="50" style="margin-right: 20px;" />
   <img src="https://img.icons8.com/ios-filled/50/000000/git.png" alt="Git" title="Git" width="50" height="50" style="margin-right: 20px;" />
 </p>
-
-
 
