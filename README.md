@@ -10,7 +10,7 @@
 ## Technologies I Know
 
 ![React](https://img.icons8.com/ios/50/000000/react-native.png)
-![Tailwind CSS](https://img.icons8.com/color/50/000000/tailwind-css.png)
+![Tailwind CSS](https://img.icons8.com/color/50/000000/tailwindcss.png)
 ![JavaScript](https://img.icons8.com/ios-filled/50/000000/javascript.png)
 ![Node.js](https://img.icons8.com/color/50/000000/nodejs.png)
 ![Express.js](https://img.icons8.com/ios-filled/50/000000/express.png)
@@ -23,6 +23,7 @@
 ![Solidity](https://img.icons8.com/ios-filled/50/000000/ethereum.png)
 ![Laravel](https://img.icons8.com/ios-filled/50/000000/laravel.png)
 ![Git](https://img.icons8.com/ios-filled/50/000000/git.png)
+
 
 
 ## Current Overview
