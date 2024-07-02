@@ -24,6 +24,13 @@
   <img src="https://img.icons8.com/color/50/000000/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS" width="50" height="50" style="margin-right: 20px;" />
   <img src="https://img.icons8.com/ios-filled/50/000000/javascript.png" alt="JavaScript" title="JavaScript" width="50" height="50" style="margin-right: 20px;" />
   <img src="https://img.icons8.com/color/50/000000/nodejs.png" alt="Node.js" title="Node.js" width="50" height="50" style="margin-right: 20px;" />
+  <span>HTML5</span>
+  <span>CSS3</span>
+  <span>React</span>
+  <span>Tailwind CSS</span>
+  <span>JavaScript</span>
+  <span>Node.js</span>
+  
 </p>
 
 <p align="center">
@@ -33,6 +40,12 @@
   <img src="https://img.icons8.com/ios-filled/50/000000/ethereum.png" alt="Solidity" title="Solidity" width="50" height="50" style="margin-right: 20px;" />
   <img src="https://img.icons8.com/ios-filled/50/000000/laravel.png" alt="Laravel" title="Laravel" width="50" height="50" style="margin-right: 20px;" />
   <img src="https://img.icons8.com/ios-filled/50/000000/git.png" alt="Git" title="Git" width="50" height="50" style="margin-right: 20px;" />
+   <span>Firebase</span>
+  <span>C</span>
+  <span>C++</span>
+  <span>Solidity</span>
+  <span>Laravel</span>
+  <span>Git</span>
 </p>
 
 
