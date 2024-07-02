@@ -25,7 +25,6 @@ Dedicated, self-motivated individual with unwavering determination and a resilie
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
 
 ## Skills/Technologies I Know
 <p align="center">
