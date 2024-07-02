@@ -3,9 +3,9 @@
 
 ## Reach Me
 
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/your-linkedin-profile)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/shahoriarniloy)
 &nbsp;&nbsp;
-[![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/your-facebook-profile)
+[![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/shahoriarniloy)
 
 ## Technologies I Know
 
