@@ -1,7 +1,7 @@
 
 
 <a align="center" href="https://www.linkedin.com/in/shahoriarniloy/">
-<img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/banner.wwebp" />
+<img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/banner.webp" />
 </a>
 
 
