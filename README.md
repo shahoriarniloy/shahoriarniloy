@@ -24,8 +24,7 @@ Dedicated, self-motivated individual with unwavering determination and a resilie
 </p>
 
 ## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api)](https://github.com/shahoriarniloy/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahoriarniloy&hide_progress=true)
 
 
 
