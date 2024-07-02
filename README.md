@@ -37,9 +37,9 @@ Dedicated, self-motivated individual with unwavering determination and a resilie
 
 <p align="center">
    <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/Laravel.png" alt="HTML5" title="HTML5" width="50" height="50" style="margin-right: 20px;" />
-  <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/Firebase.png" alt="CSS3" title="CSS3" width="50" height="50" style="margin-right: 20px;" />
+  <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/firebase.png" alt="CSS3" title="CSS3" width="50" height="50" style="margin-right: 20px;" />
   <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/mongo.png" alt="JavaScript" title="JavaScript" width="50" height="50" style="margin-right: 20px;" />
-  <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/MySql.png" alt="C" title="C" width="50" height="50" style="margin-right: 20px;" />
+  <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/MySQL.png" alt="C" title="C" width="50" height="50" style="margin-right: 20px;" />
   <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/node.png" alt="C++" title="C++" width="50" height="50" style="margin-right: 20px;" />
   <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/express.png" alt="Bootstrap" title="Bootstrap" width="50" height="50" style="margin-right: 20px;" />
 </p>
