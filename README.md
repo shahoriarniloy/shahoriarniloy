@@ -1,31 +1,40 @@
 
 
 <a align="center" href="https://www.linkedin.com/in/shahoriarniloy/">
-<img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/banner.wwebp" />
+<img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/banner.webp" />
 </a>
 
 
-## Overview
+##  👁️: Overview  
 
 Dedicated, self-motivated individual with unwavering determination and a resilient attitude, committed to achieving goals through hard work and consistent effort. Possessing a mindset to face challenges head-on and a strong problem-solving mentality. Seeking career opportunities in the web development field to utilize abilities and pursue professional growth.
 
 
-## Reach Me
+##  📬: Reach Me
+<P align="center">
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/shahoriarniloy/)
 &nbsp;&nbsp;
 [![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/shahoriarniloy)
+  
+</P>
+
 
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=shahoriarniloy&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=shahoriarniloy&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahoriarniloy&theme=dark&card_width=1000)
 
 
-## Skills/Technologies I Know
+
+
+
+
+## 🖥️: Skills/Technologies I Know
 <p align="center">
   <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/HTML.png" alt="HTML5" title="HTML5" width="50" height="50" style="margin-right: 20px; border-radius: 5px;" />
   <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/css.png" alt="CSS3" title="CSS3" width="50" height="50" style="margin-right: 20px; border-radius: 5px;" />
