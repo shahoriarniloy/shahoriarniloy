@@ -1,7 +1,7 @@
 ![Example Image](https://i.ibb.co/LP7JGD3/Abstract-Slide-1.png)
 
 
-## About Me
+## Overview
 
 Dedicated, self-motivated individual with unwavering determination and a resilient attitude, committed to achieving goals through hard work and consistent effort. Possessing a mindset to face challenges head-on and a strong problem-solving mentality. Seeking career opportunities in the web development field to utilize abilities and pursue professional growth.
 
