@@ -9,20 +9,38 @@
 
 ## Technologies I Know
 
-![React](https://img.icons8.com/ios/50/000000/react-native.png)
-![Tailwind CSS](https://img.icons8.com/color/50/000000/tailwindcss.png)
-![JavaScript](https://img.icons8.com/ios-filled/50/000000/javascript.png)
-![Node.js](https://img.icons8.com/color/50/000000/nodejs.png)
-![Express.js](https://img.icons8.com/fluency/50/000000/express.png)
-![Firebase](https://img.icons8.com/color/50/000000/firebase.png)
-![C](https://img.icons8.com/ios/50/000000/c.png)
-![C++](https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png)
-![Dart](https://img.icons8.com/ios-filled/50/000000/dart.png)
-![HTML5](https://img.icons8.com/color/50/000000/html-5.png)
-![CSS3](https://img.icons8.com/color/50/000000/css3.png)
-![Solidity](https://img.icons8.com/ios-filled/50/000000/ethereum.png)
-![Laravel](https://img.icons8.com/ios-filled/50/000000/laravel.png)
-![Git](https://img.icons8.com/ios-filled/50/000000/git.png)
+<p align="center">
+  <img src="https://img.icons8.com/ios/50/000000/react-native.png" alt="React" title="React" width="50" height="50" />
+  <img src="https://img.icons8.com/color/50/000000/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS" width="50" height="50" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/javascript.png" alt="JavaScript" title="JavaScript" width="50" height="50" />
+  <img src="https://img.icons8.com/color/50/000000/nodejs.png" alt="Node.js" title="Node.js" width="50" height="50" />
+  <br />
+  <span>React</span>
+  <span>Tailwind CSS</span>
+  <span>JavaScript</span>
+  <span>Node.js</span>
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/50/000000/firebase.png" alt="Firebase" title="Firebase" width="50" height="50" />
+  <img src="https://img.icons8.com/ios/50/000000/c.png" alt="C" title="C" width="50" height="50" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png" alt="C++" title="C++" width="50" height="50" />
+  <img src="https://img.icons8.com/color/50/000000/html-5.png" alt="HTML5" title="HTML5" width="50" height="50" />
+  <img src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS3" title="CSS3" width="50" height="50" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/ethereum.png" alt="Solidity" title="Solidity" width="50" height="50" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/laravel.png" alt="Laravel" title="Laravel" width="50" height="50" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/git.png" alt="Git" title="Git" width="50" height="50" />
+  <br />
+  <span>Firebase</span>
+  <span>C</span>
+  <span>C++</span>
+  <span>HTML5</span>
+  <span>CSS3</span>
+  <span>Solidity</span>
+  <span>Laravel</span>
+  <span>Git</span>
+</p>
+
 
 
 
