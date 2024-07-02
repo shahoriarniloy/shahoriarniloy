@@ -3,7 +3,7 @@
 
 ## Reach Me
 
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/shahoriarniloy)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/shahoriarniloy/)
 &nbsp;&nbsp;
 [![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/shahoriarniloy)
 
