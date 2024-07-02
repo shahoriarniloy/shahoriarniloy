@@ -38,18 +38,22 @@ Dedicated, self-motivated individual with unwavering determination and a resilie
 <p align="center">
   <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/HTML.png" alt="HTML5" title="HTML5" width="50" height="50" style="margin-right: 20px; border-radius: 5px;" />
   <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/css.png" alt="CSS3" title="CSS3" width="50" height="50" style="margin-right: 20px; border-radius: 5px;" />
-  <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/JavaScript.png" alt="JavaScript" title="JavaScript" width="50" height="50" style="margin-right: 20px; border-radius: 5px;" />
+  <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/Bootsrap.png" alt="Bootstrap" title="Bootstrap" width="50" height="50" style="margin-right: 20px; border-radius: 5px;" />
   <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/c.png" alt="C" title="C" width="50" height="50" style="margin-right: 20px; border-radius: 5px;" />
   <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/cpp.png" alt="C++" title="C++" width="50" height="50" style="margin-right: 20px; border-radius: 5px;" />
-  <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/Bootsrap.png" alt="Bootstrap" title="Bootstrap" width="50" height="50" style="margin-right: 20px; border-radius: 5px;" />
 </p>
 
 <p align="center">
+    <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/JavaScript.png" alt="JavaScript" title="JavaScript" width="50" height="50" style="margin-right: 20px; border-radius: 5px;" />
+    <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/react" alt="React" title="React" width="50" height="50" style="margin-right: 20px; border-radius: 5px;" />
    <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/Laravel.png" alt="Laravel" title="Laravel" width="50" height="50" style="margin-right: 20px; border-radius: 20px;" />
   <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/firebase.png" alt="Firebase" title="Firebase" width="50" height="50" style="margin-right: 20px; border-radius: 5px;" />
   <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/mongo.png" alt="MongoDB" title="MongoDB" width="50" height="50" style="margin-right: 20px; border-radius: 5px;" />
+</p>
+<p>
   <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/MySQL.png" alt="MySQL" title="MySQL" width="50" height="50" style="margin-right: 20px; border-radius: 5px;" />
   <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/node.png" alt="Node" title="Node width="50" height="50" style="margin-right: 20px; border-radius: 5px;" />
   <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/express.png" alt="Express" title="Express" width="50" height="50" style="margin-right: 20px; border-radius: 5px;" />
+
 </p>
 
