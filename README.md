@@ -1,6 +1,17 @@
 ![Example Image](https://i.ibb.co/LP7JGD3/Abstract-Slide-1.png)
 
 
+## About Me
+
+Dedicated, self-motivated individual with unwavering determination and a resilient attitude, committed to achieving goals through hard work and consistent effort. Possessing a mindset to face challenges head-on and a strong problem-solving mentality. Seeking career opportunities in the web development field to utilize abilities and pursue professional growth.
+
+
+## Reach Me
+
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/shahoriarniloy/)
+&nbsp;&nbsp;
+[![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/shahoriarniloy)
+
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
@@ -9,11 +20,6 @@
 </p>
 
 
-## Reach Me
-
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/shahoriarniloy/)
-&nbsp;&nbsp;
-[![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/shahoriarniloy)
 
 ## Skills/Technologies I Know
 <p align="center">
@@ -35,7 +41,4 @@
 </p>
 
 
-## Current Overview
-
-Dedicated, self-motivated individual with unwavering determination and a resilient attitude, committed to achieving goals through hard work and consistent effort. Possessing a mindset to face challenges head-on and a strong problem-solving mentality. Seeking career opportunities in the web development field to utilize abilities and pursue professional growth.
 
