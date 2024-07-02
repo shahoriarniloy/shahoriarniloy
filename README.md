@@ -1,6 +1,6 @@
 
 
-<a href="https://www.facebook.com/shahoriarniloy/">
+<a align="center" href="https://www.facebook.com/shahoriarniloy/">
 <img src="https://i.ibb.co/LP7JGD3/Abstract-Slide-1.png" />
 </a>
 
