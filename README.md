@@ -5,12 +5,12 @@
 </a>
 
 
-## Overview
+##  👁️: Overview  
 
 Dedicated, self-motivated individual with unwavering determination and a resilient attitude, committed to achieving goals through hard work and consistent effort. Possessing a mindset to face challenges head-on and a strong problem-solving mentality. Seeking career opportunities in the web development field to utilize abilities and pursue professional growth.
 
 
-## Reach Me
+##  📬: Reach Me
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/shahoriarniloy/)
 &nbsp;&nbsp;
@@ -25,7 +25,7 @@ Dedicated, self-motivated individual with unwavering determination and a resilie
 
 
 
-## Skills/Technologies I Know
+## 🖥️: Skills/Technologies I Know
 <p align="center">
   <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/HTML.png" alt="HTML5" title="HTML5" width="50" height="50" style="margin-right: 20px; border-radius: 5px;" />
   <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/css.png" alt="CSS3" title="CSS3" width="50" height="50" style="margin-right: 20px; border-radius: 5px;" />
