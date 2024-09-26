@@ -33,7 +33,6 @@ Dedicated, self-motivated individual with unwavering determination and a resilie
 
 
 
-
 ## 🖥️: Skills/Technologies I Know
 <p align="center">
   <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/HTML.png" alt="HTML5" title="HTML5" width="50" height="50" style="margin-right: 20px; border-radius: 5px;" />
