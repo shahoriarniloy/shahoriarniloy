@@ -7,7 +7,14 @@
 
 ##  👁️: Overview  
 
-Dedicated, self-motivated individual with unwavering determination and a resilient attitude, committed to achieving goals through hard work and consistent effort. Possessing a mindset to face challenges head-on and a strong problem-solving mentality. Seeking career opportunities in the web development field to utilize abilities and pursue professional growth.
+<p style="text-align: center;">Dedicated and self-motivated individual</p>
+<p style="text-align: center;">Strong determination and resilient attitude</p>
+<p style="text-align: center;">Committed to achieving goals through hard work and consistent effort</p>
+<p style="text-align: center;">Problem-solving mindset, faces challenges head-on</p>
+<p style="text-align: center;">Seeking career opportunities in web development</p>
+<p style="text-align: center;">Focused on utilizing skills and pursuing professional growth</p>
+
+
 
 
 ##  📬: Reach Me
