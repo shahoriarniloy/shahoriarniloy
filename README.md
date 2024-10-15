@@ -36,7 +36,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahoriarniloy&theme=dark&card_width=1000)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahoriarniloy"/>
 
 
 
