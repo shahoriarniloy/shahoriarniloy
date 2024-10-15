@@ -35,7 +35,6 @@
 </p>
 
 
-![Niloy's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahoriarniloy&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahoriarniloy&theme=dark&card_width=1000)
 
 
