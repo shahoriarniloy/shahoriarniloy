@@ -42,7 +42,7 @@
 
 
 
-## 🖥️: Skills/Technologies I Know
+## 🖥️: Skills/Technologies
 <p align="center">
   <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/HTML.png" alt="HTML5" title="HTML5" width="50" height="50" style="margin-right: 20px; border-radius: 5px;" />
   <img src="https://github.com/shahoriarniloy/shahoriarniloy/blob/main/icons/css.png" alt="CSS3" title="CSS3" width="50" height="50" style="margin-right: 20px; border-radius: 5px;" />
